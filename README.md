@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max
 - 👀 I'm interested in Backend development
-- 🌱 I’m currently learning Go and databases
+- 🌱 I’m currently learning Go, RabbitMQ & Kafka, Docker & k8s & linux
 - 💞️ _______________________________________
 - 📫 How to reach me: msprog@icloud.com
 - 😄 Pronouns: He | Him
