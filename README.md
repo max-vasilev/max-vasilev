@@ -7,3 +7,9 @@
 - ⚡ _______________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim111111111&show_icons=true&theme=radical)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,kafka,git,postgres,mongodb,redis,rabbitmq,kubernetes,docker,bash,elasticsearch,prometheus,grafana" />
+  </a>
+</p>
