@@ -6,4 +6,5 @@
 - 😄 Pronouns: He | Him
 - ⚡ _______________________________________
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMaxim111111111=anuraghazra&hide=contribs,prs)
+markdown
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMaxim111111111anuraghazra&show_icons=true&theme=radical)
