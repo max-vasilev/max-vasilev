@@ -1,8 +1,8 @@
 ### 👨‍💻 About Me :
 - 👋 Hi, I’m Max
 - 👀 I'm interested in Backend development
-- 👨‍🎓 I’m currently learning Go, RabbitMQ & Kafka, Docker & k8s & linux
-- 📫 How to reach me: msprog@icloud.com
+- 👨‍🎓 I’m currently learning Go backend development — building REST APIs with PostgreSQL, RabbitMQ & Kafka, Docker & k8s & linux
+- 📫 How to reach me: maxim.konstk@gmail.com
 - 😄 Pronouns: He | Him
 
 
